@@ -224,13 +224,6 @@ Expected SentinelNet behavior:
 
   sudo iptables -L INPUT -n --line-numbers
 
-## Professional Extension Ideas
-
-- Add a Flask-based dashboard for live alert visualization
-- Integrate GeoIP enrichment for source IP context
-- Export alerts to SIEM-compatible JSON format
-- Add GitHub Actions CI to run pytest on every push
-
 ## Disclaimer
 
 SentinelNet is for authorized defensive security use only. Test only in environments where you have explicit permission.
