@@ -1,6 +1,6 @@
 # SentinelNet IDS
 
-SentinelNet is a modular, real-time Network Intrusion Detection System (IDS) engineered for Kali Linux. It captures live packets using Scapy, applies multiple detection rules, logs actionable alerts, and provides a clean command-line monitoring experience suitable for cybersecurity portfolios and interview demos.
+SentinelNet is a modular, real-time Network Intrusion Detection System (IDS) engineered for Kali Linux. It captures live packets using Scapy, applies multiple detection rules, logs actionable alerts, and provides a clean command-line monitoring experience.
 
 ## Project Goals
 
